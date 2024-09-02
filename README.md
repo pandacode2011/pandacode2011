@@ -1,4 +1,8 @@
-## Hi there 👋
+<img src = 1723258625184.jpg >
+
+Aspiring Android Developer | Passionate About Mobile Technology
+
+I'm an enthusiastic Android developer with a growing skill set in Java and Kotlin. My focus is on creating intuitive and responsive mobile applications. I’m committed to learning and evolving in the Android ecosystem, eager to contribute to projects that push my boundaries and allow me to collaborate with others in the community.
 
 <!--
 **pandacode2011/pandacode2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
